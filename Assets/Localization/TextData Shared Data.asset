@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TextData Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TextData
+  m_TableCollectionNameGuidString: 02ad111ace13a6d4191de74fc0d2488e
+  m_Entries:
+  - m_Id: 35975855112192
+    m_Key: TutorialLeftText0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41593500368896
+    m_Key: TutorialLeftText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41652220624896
+    m_Key: TutorialLeftText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56308226097152
+    m_Key: TutorialLeftText3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56367751659520
+    m_Key: TutorialLeftText4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36022810345472
+    m_Key: TutorialRightText0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41672118403072
+    m_Key: TutorialRightText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41863072481280
+    m_Key: TutorialRightText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56412253224960
+    m_Key: TutorialRightText3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56433887444992
+    m_Key: TutorialRightText4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40652275712
+    m_Key: TutorialTitle0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35855575056384
+    m_Key: TutorialTitle1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41445919588352
+    m_Key: TutorialTitle2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56466615599104
+    m_Key: TutorialTitle3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56484374282240
+    m_Key: TutorialTitle4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90912383336448
+    m_Key: GameMessage0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90981597741056
+    m_Key: GameMessage1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91026296438784
+    m_Key: GameMessage2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91080100970496
+    m_Key: GameMessage3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91119074443264
+    m_Key: GameMessage4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100932223270912
+    m_Key: OptionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101521351016448
+    m_Key: BackTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327512807735296
+    m_Key: GameSceneTransitionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327595280334848
+    m_Key: TitleSceneTransitionText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 28292869076549656
+  references:
+    version: 2
+    RefIds:
+    - rid: 28292869076549656
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1683712732837
